@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "__config": "cpp",
+        "vga.h": "c",
+        "idt.h": "c",
+        "isr.h": "c",
+        "gdt.h": "c",
+        "io.h": "c",
+        "register.h": "c",
+        "*.asm": "c"
+    }
+}
